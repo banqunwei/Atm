@@ -1,0 +1,32 @@
+C:\Users\CHENG2\source\repos\BANKSYSTEM\ATM\obj\Debug\ATM.Login.resources
+C:\Users\CHENG2\source\repos\BANKSYSTEM\ATM\obj\Debug\ATM.MainFrame1.resources
+C:\Users\CHENG2\source\repos\BANKSYSTEM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\CHENG2\source\repos\BANKSYSTEM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\CHENG2\source\repos\BANKSYSTEM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\CHENG2\source\repos\BANKSYSTEM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\CHENG2\source\repos\BANKSYSTEM\ATM\bin\Debug\ATM.exe.config
+C:\Users\CHENG2\source\repos\BANKSYSTEM\ATM\bin\Debug\ATM.exe
+C:\Users\CHENG2\source\repos\BANKSYSTEM\ATM\bin\Debug\ATM.pdb
+C:\Users\CHENG2\source\repos\BANKSYSTEM\ATM\obj\Debug\ATM.exe
+C:\Users\CHENG2\source\repos\BANKSYSTEM\ATM\obj\Debug\ATM.pdb
+C:\Users\CHENG2\source\repos\BANKSYSTEM\ATM\obj\Debug\ATM.MainFrame2.resources
+C:\Users\CHENG2\source\repos\BANKSYSTEM\ATM\obj\Debug\ATM.Deposit.resources
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\bin\Debug\ATM.exe.config
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\bin\Debug\ATM.exe
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\bin\Debug\ATM.pdb
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\obj\Debug\ATM.Deposit.resources
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\obj\Debug\ATM.Login.resources
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\obj\Debug\ATM.MainFrame1.resources
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\obj\Debug\ATM.MainFrame2.resources
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\obj\Debug\ATM.Properties.Resources.resources
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\obj\Debug\ATM.exe
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\obj\Debug\ATM.pdb
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\obj\Debug\ATM.Withdraw.resources
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\obj\Debug\ATM.Transfer.resources
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\obj\Debug\ATM.preTransfer.resources
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\obj\Debug\ATM.MainFrame3.resources
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\obj\Debug\ATM.MainFrame4.resources
+E:\Documents\Tencent Files\2214654333\FileRecv\ATM视频源代码\BANKSYSTEM\ATM\obj\Debug\ATM.MainFrame0.resources
